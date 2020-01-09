@@ -5,6 +5,8 @@
 # 打印九九乘法表
 
 # 补充资料
+- for 循环用了那么多次，但你真的了解它么？
+https://mp.weixin.qq.com/s/W4Bqj1_vPlDfr_-XRFQS5g
 - Java 数组详解 - 用法、遍历、排序、实用API：
 https://www.cnblogs.com/lzq198754/p/5780196.html
 - 理解JAVA数组
