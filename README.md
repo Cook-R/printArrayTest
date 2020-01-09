@@ -15,3 +15,13 @@ http://www.blogjava.net/flysky19/articles/92763.html?opt=admin
 http://c.biancheng.net/java/70/
 - ArrayList底层数组扩容原理：
 https://juejin.im/post/59dd70966fb9a0452845741e
+
+# 如何举一反三
+- 了解for循环结构
+- 在需要显示很多数据时，需要用循环
+- 分析需求，抽象出其中规律，化繁为简
+- 数学与编程的关系
+
+# 如何抽象、复用、总结
+- 找联系，映射，编织知识网
+- 模式复用、代码复用
