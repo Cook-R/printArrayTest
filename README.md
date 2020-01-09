@@ -16,6 +16,10 @@ http://c.biancheng.net/java/70/
 - ArrayList底层数组扩容原理：
 https://juejin.im/post/59dd70966fb9a0452845741e
 
+# 前提
+- 有思考与总结的习惯和思维方式
+- 落实到行动上，不断实践
+
 # 如何举一反三
 - 了解for循环结构
 - 在需要显示很多数据时，需要用循环
