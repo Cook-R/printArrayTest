@@ -17,6 +17,7 @@ http://c.biancheng.net/java/70/
 https://juejin.im/post/59dd70966fb9a0452845741e
 
 # 前提
+- 听和说属于入门，深化、内化是立身之本
 - 有思考与总结的习惯和思维方式
 - 落实到行动上，不断实践
 
